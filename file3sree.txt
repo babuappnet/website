@@ -1,1 +1,1 @@
-Learning git rebase
+Learning rebase from master branch
